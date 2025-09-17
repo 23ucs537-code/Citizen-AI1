@@ -1,1 +1,4 @@
-# Citizen-AI1
+- 📄 *PDF Report:* [project1.pdf]()
+- 📓 *app.py.ipynb Notebook:* [healthai.ipynb]()
+- 🤖 *Live Hugging Face:* [Health-AI1 Space]()
+- 🎥 *Demo Video:* [Watch here]()
