@@ -1,4 +1,4 @@
-- 📄 *PDF Report:* [project1.pdf]()
+- 📄 *PDF Report:* [project1.pdf](Intelligent Citizen Engagement Platform (1).pdf)
 - 📓 *app.py.ipynb Notebook:* [healthai.ipynb]()
 - 🤖 *Live Hugging Face:* [Health-AI1 Space]()
 - 🎥 *Demo Video:* [Watch here]()
