@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [Citizen-AI.pdf](Intelligent Citizen Engagement Platform (1).pdf)
-- 📓 *app.py.ipynb Notebook:* [Citizen-AI.ipynb](citizen_py (2).py)
+- 📓 *app.py.ipynb Notebook:* [Citizen-AI.ipynb](citizen-AI.py)
 - 🤖 *Live Hugging Face:* [Citizen-AI1 Space](https://huggingface.co/spaces/23ucs537/Citizen-AI)
 - 🎥 *Demo Video:* [Watch here]()
