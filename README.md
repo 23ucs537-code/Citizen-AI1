@@ -1,4 +1,4 @@
-- 📄 *PDF Report:* [Citizen-AI.pdf](.pdf)
+- 📄 *PDF Report:* [Citizen-AI.pdf](Citizen-AI.pdf)
 - 📓 *app.py.ipynb Notebook:* [Citizen-AI.ipynb](citizen-AI.py)
 - 🤖 *Live Hugging Face:* [Citizen-AI1 Space](https://huggingface.co/spaces/23ucs537/Citizen-AI)
 - 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/127CvVSGSl2881wYQhJrZ4PIcEmT4kQil/view)
