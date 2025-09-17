@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project1.pdf](Intelligent Citizen Engagement Platform (1).pdf)
 - 📓 *app.py.ipynb Notebook:* [healthai.ipynb]()
-- 🤖 *Live Hugging Face:* [Health-AI1 Space]()
+- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/23ucs537/Citizen-AI)
 - 🎥 *Demo Video:* [Watch here]()
